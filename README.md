@@ -1,6 +1,6 @@
 
 
-# which_celebrity_do_i_look_like
+# which celebrity do I look like
 
 Demo: https://whichcelebritydoilooklike.pythonanywhere.com/
 
