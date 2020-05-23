@@ -2,6 +2,10 @@
 
 # which celebrity do I look like
 
+A web application that will tell you which celebrity do you look like .
+
+Dataset used : celebA
+
 Demo: https://whichcelebritydoilooklike.pythonanywhere.com/
 
 requirements:<br>
