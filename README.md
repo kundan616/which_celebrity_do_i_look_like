@@ -6,7 +6,7 @@ A web application that will tell you which celebrity do you look like .
 
 Dataset used : celebA
 
-clich on the DEMO to visit the Demo site <a href="https://whichcelebritydoilooklike.pythonanywhere.com/"> DEMO</a>
+click on the DEMO to visit the Demo site <a href="https://whichcelebritydoilooklike.pythonanywhere.com/"> DEMO</a>
 
 <b>Requirements:</b><br>
 pip install face-recognition <br>
