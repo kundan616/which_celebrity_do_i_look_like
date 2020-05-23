@@ -5,7 +5,7 @@
 Demo: https://whichcelebritydoilooklike.pythonanywhere.com/
 
 requirements:
-pip install face-recognition
+pip install face-recognition <br>
 pip install numpy
 pip install django
 
